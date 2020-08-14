@@ -10,7 +10,7 @@
     "codemirror": "^5.43.0",
     "detect-browser": "^3.0.0",
     "js-base64": "^2.5.1",
-    "mobx": "^5.1.1",
+    "mobx": "^5.15.4",
     "mobx-react": "^5.2.8",
     "mobx-utils": "^5.0.2",
     "notifyjs": "^3.0.0",
